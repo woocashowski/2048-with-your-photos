@@ -1,0 +1,11 @@
+D:\semestr4\Programowanie\Gra\Gra\Gra\bin\Debug\Gra.exe.config
+D:\semestr4\Programowanie\Gra\Gra\Gra\bin\Debug\Gra.exe
+D:\semestr4\Programowanie\Gra\Gra\Gra\bin\Debug\Gra.pdb
+D:\semestr4\Programowanie\Gra\Gra\Gra\obj\Debug\Gra.Form1.resources
+D:\semestr4\Programowanie\Gra\Gra\Gra\obj\Debug\Gra.Properties.Resources.resources
+D:\semestr4\Programowanie\Gra\Gra\Gra\obj\Debug\Gra.csproj.GenerateResource.Cache
+D:\semestr4\Programowanie\Gra\Gra\Gra\obj\Debug\Gra.exe
+D:\semestr4\Programowanie\Gra\Gra\Gra\obj\Debug\Gra.pdb
+D:\semestr4\Programowanie\Gra\Gra\Gra\obj\Debug\Gra.Plansza.resources
+D:\semestr4\Programowanie\Gra\Gra\Gra\obj\Debug\Gra.csprojAssemblyReference.cache
+D:\semestr4\Programowanie\Gra\Gra\Gra\obj\Debug\Gra.csproj.CoreCompileInputs.cache
